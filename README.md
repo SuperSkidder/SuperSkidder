@@ -1,20 +1,21 @@
 ### Hi, I am SuperSkidder 👋
+## 🚀 About Me
+
 - 🔭 I’m currently working on FPSMaster PVP Client & Hanabi Client
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++/Springboot
+- 💬 Ask me about minecraft/Java
+- 
+## Tech Stack
+
+**Client:** Vue, Java, JavaScript
+
+**Server:** Java
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SuperSkidder&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
 
-<!--
-**SuperSkidder/SuperSkidder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=SuperSkidder" alt="SuperSkidder" />
+</a>
+</p>
