@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am SuperSkidder 👋
+- 🔭 I’m currently working on FPSMaster PVP Client & Hanabi Client
+- 🌱 I’m currently learning C++
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SuperSkidder&show_icons=true&count_private=true)
 
 <!--
 **SuperSkidder/SuperSkidder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
