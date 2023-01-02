@@ -1,15 +1,15 @@
 ### Hi, I am SuperSkidder 👋
 ## 🚀 About Me
 
-- 🔭 I’m currently working on FPSMaster PVP Client & Hanabi Client
-- 🌱 I’m currently learning C++/Springboot
-- 💬 Ask me about minecraft/Java
+- 🔭 I’m currently working on Minecraft clients
+- 🌱 I’m currently learning C++/Springboot/Machine learning
+- 💬 Ask me about Java/Minecraft
 
 ## Tech Stack
 
-**Client:** Vue, Java, JavaScript
+**Client:** Vue, React, Java, Kotlin, JavaScript, C#
 
-**Server:** Java
+**Server:** Java, Kotlin
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SuperSkidder&show_icons=true&count_private=true)   
 
