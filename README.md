@@ -1,15 +1,10 @@
 ### Hi, I am SuperSkidder 👋
-## 🚀 About Me
-
-- 🔭 I’m currently working on Minecraft clients
-- 🌱 I’m currently learning C++/Springboot/Machine learning
-- 💬 Ask me about Java/Minecraft
 
 ## Tech Stack
 
-**Client:** Vue, React, Java, Kotlin, JavaScript, C#
+**Client:** Vue, React, Java, Kotlin, JavaScript, C#, C++, Rust
 
-**Server:** Java, Kotlin
+**Server:** Java, Kotlin, Go
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SuperSkidder&show_icons=true&count_private=true)   
 
